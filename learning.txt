@@ -1,0 +1,1 @@
+So far in this course, I’ve learned how to use GitHub to manage projects, create branches, and push changes. It's my first time working with version control, and I’m gaining more confidence every day!
