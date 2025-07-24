@@ -1,4 +1,7 @@
 My Personal and Academic Goals for Next Year
-Complete my ALX training  
-Earn a Salesforce certificate 
-Build confidence with Git and GitHub  Share my learning with others
+
+1. Complete my current coding course and improve my Git/GitHub skills.
+2. Start contributing to open-source projects.
+3. Build at least two personal software projects.
+4. Improve my time management and productivity.
+5. Learn a new programming language (like Python or JavaScript).
