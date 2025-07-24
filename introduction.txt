@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hi, my name is oluwafunmike oladele. I am currently learning how to use Git and GitHub. I am excited to develop my skills in software development and version control.
+
+I enjoy problem-solving and building meaningful tech projects. This journey is the first step in my growth as a software engineer.
